@@ -1,0 +1,75 @@
+Currículum Vitae
+Datos Personales
+Nombre: Lucía Fernández Morales
+DNI: 28.987.654
+Fecha de nacimiento: 22 de marzo de 1992
+Lugar de residencia: Córdoba, Córdoba, Argentina
+Teléfono: +54 9 351 987-6543
+Correo electrónico: luciafm@gmail.com
+LinkedIn: linkedin.com/in/luciafm
+
+Perfil Profesional
+Ingeniera en Sistemas con más de 7 años de experiencia en desarrollo full-stack, infraestructura en la nube y automatización DevOps. Apasionada por la innovación tecnológica, el trabajo colaborativo y la implementación de soluciones escalables. Experiencia liderando equipos ágiles y optimizando procesos mediante herramientas modernas de CI/CD y cloud computing.
+
+Experiencia Laboral
+
+Senior Full-Stack & DevOps Engineer – Globotech
+Remoto – (Mar 2022 – Actualidad)
+
+Automatización de pipelines CI/CD con GitLab CI y Jenkins.
+
+Despliegue y gestión de microservicios en Kubernetes (EKS + Helm).
+
+Implementación de infraestructura como código con Terraform y Ansible.
+
+Monitoreo y alertas usando Prometheus, Grafana y Loki.
+
+Coordinación de equipos para resolución de incidentes críticos y mejoras de rendimiento.
+
+Backend Developer – Tienda Online SA
+Córdoba – (Jul 2017 – Feb 2022)
+
+Desarrollo de APIs y microservicios en Python y Go.
+
+Integración con sistemas internos y externos mediante Kafka y REST APIs.
+
+Testing automatizado con PyTest, Postman y Swagger.
+
+Participación en todas las etapas del ciclo de vida del software, desde análisis hasta despliegue.
+
+Soporte Técnico IT – NetSolutions
+Córdoba – (Ene 2015 – Jun 2017)
+
+Administración de servidores Linux y Windows.
+
+Configuración y mantenimiento de redes, firewalls y servicios internos.
+
+Atención a usuarios y resolución de incidencias técnicas.
+
+Educación
+Ingeniería en Sistemas
+Universidad Nacional de Córdoba – (2010 – 2016)
+
+Certificaciones
+
+Certified Kubernetes Administrator (CKA) – CNCF (2025)
+
+AWS Solutions Architect Associate – Amazon (2024)
+
+Scrum Master Professional (SMP) – CertiProf (2023)
+
+Conocimientos Técnicos
+Lenguajes: Python, Go, JavaScript, Bash
+Contenedores: Docker, Kubernetes, Podman
+Cloud: AWS (EC2, S3, Lambda, RDS), GCP, Azure
+DevOps: GitLab CI, Jenkins, Terraform, Ansible, Helm
+Bases de Datos: PostgreSQL, MongoDB, Redis
+Monitoring: Prometheus, Grafana, Loki
+Metodologías: Scrum, Kanban
+
+Idiomas
+Español: Nativo
+Inglés: Avanzado (B2+/C1)
+
+Referencias
+Disponibles a solicitud
